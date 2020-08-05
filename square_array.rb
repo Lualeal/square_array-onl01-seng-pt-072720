@@ -3,5 +3,3 @@ def square_array(array)
     e.replace(number * number)
   end 
 end
-1, 2, 3
-
